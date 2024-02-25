@@ -1,7 +1,7 @@
 # 02_화면구현
 
 ---
-#### [HTML](./01html.md)
+#### [HTML](./HTML/01html.md)
 ---
 ---
 #### [CSS](./02css.md)
