@@ -7,13 +7,13 @@
 #### [CSS](./CSS/02css.md)
 ---
 ---
-#### [MINI PROJECT(NETFLEX)](./03minipj_netflex.md)
+#### [MINI PROJECT(NETFLEX)](./MiniProject/03minipj_netflex.md)
 ---
 ---
 #### [JS](./JS/04js.md)
 ---
 ---
-#### [MINI PROJECT(모바일청첩장)](./05minipj_wedding.md)
+#### [MINI PROJECT(모바일청첩장)](./MiniProject/05minipj_wedding.md)
 ---
 ---
 #### [JQUERY](./06jquery.md)
